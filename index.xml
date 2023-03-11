@@ -8,12 +8,51 @@
     <language>en</language>
     <lastBuildDate>Sat, 18 Feb 2023 08:05:05 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Theme preview</title>
+      <link>http://localhost:1313/post/even-preview/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/even-preview/</guid>
+      <description>Based on MarkdownPreview test.md.
+Markdown 1 2 3 4 5 6 7 8 # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 ### Duplicate Header ### Duplicate Header H1 H2 H3 H4 H5 H6 Duplicate Header Duplicate Header Paragraphs 1 2 3 4 This is a paragraph. I am still part of the paragraph. New paragraph. This is a paragraph. I am still part of the paragraph.</description>
+    </item>
+    
+    <item>
       <title>JavaScript 原型和原型链</title>
       <link>http://localhost:1313/post/20230218-prototype-chain/</link>
       <pubDate>Sat, 18 Feb 2023 08:05:05 +0000</pubDate>
       
       <guid>http://localhost:1313/post/20230218-prototype-chain/</guid>
       <description>JavaScript 原型和原型链 今天刚开始学习【重学前端】的课程，讲到装箱转换的时候提到了函数的 call 方法，而 call 方法在我的印象中就只有 call 约等于 apply ，然后就再没有然后</description>
+    </item>
+    
+    <item>
+      <title>pet shop boys</title>
+      <link>http://localhost:1313/post/202211-second-weekly-newspaper/</link>
+      <pubDate>Mon, 14 Nov 2022 15:35:14 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/202211-second-weekly-newspaper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is a hidden post.</title>
+      <link>http://localhost:1313/post/hidden-post/</link>
+      <pubDate>Thu, 08 Mar 2018 17:40:19 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/hidden-post/</guid>
+      <description>&lt;p&gt;This post is hidden from the home page.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>http://localhost:1313/post/shortcodes/</link>
+      <pubDate>Tue, 30 Aug 2016 16:01:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/shortcodes/</guid>
+      <description>1 2 ## default ![img](/path/to/img.gif &amp;#34;img&amp;#34;) default figure with class default Music 163 Params id
+required param you can extract from music url url format http://music.163.com/#/song?id=28196554 Fiddle auto
+optional param default value 0 you can overwrite it with 1 Examples Simple 1 2 {{% music &amp;#34;28196554&amp;#34; %}} {{% music &amp;#34;28196554&amp;#34; &amp;#34;1&amp;#34; %}} Named Params 1 2 {{% music id=&amp;#34;28196554&amp;#34; %}} {{% music id=&amp;#34;28196554&amp;#34; auto=&amp;#34;1&amp;#34; %}} Example 1 {{% music &amp;#34;28196554&amp;#34; %}} {{% music &amp;ldquo;28196554&amp;rdquo; %}}</description>
     </item>
     
   </channel>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shortcodes on Sagit</title>
+    <link>http://localhost:1313/categories/shortcodes/</link>
+    <description>Recent content in shortcodes on Sagit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Aug 2016 16:01:23 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shortcodes</title>
+      <link>http://localhost:1313/post/shortcodes/</link>
+      <pubDate>Tue, 30 Aug 2016 16:01:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/shortcodes/</guid>
+      <description>1 2 ## default ![img](/path/to/img.gif &amp;#34;img&amp;#34;) default figure with class default Music 163 Params id
+required param you can extract from music url url format http://music.163.com/#/song?id=28196554 Fiddle auto
+optional param default value 0 you can overwrite it with 1 Examples Simple 1 2 {{% music &amp;#34;28196554&amp;#34; %}} {{% music &amp;#34;28196554&amp;#34; &amp;#34;1&amp;#34; %}} Named Params 1 2 {{% music id=&amp;#34;28196554&amp;#34; %}} {{% music id=&amp;#34;28196554&amp;#34; auto=&amp;#34;1&amp;#34; %}} Example 1 {{% music &amp;#34;28196554&amp;#34; %}} {{% music &amp;ldquo;28196554&amp;rdquo; %}}</description>
+    </item>
+    
+  </channel>
+</rss>
