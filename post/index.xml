@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sagit</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Sagit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Feb 2023 08:05:05 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript 原型和原型链</title>
+      <link>http://localhost:1313/post/20230218-prototype-chain/</link>
+      <pubDate>Sat, 18 Feb 2023 08:05:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/20230218-prototype-chain/</guid>
+      <description>JavaScript 原型和原型链 今天刚开始学习【重学前端】的课程，讲到装箱转换的时候提到了函数的 call 方法，而 call 方法在我的印象中就只有 call 约等于 apply ，然后就再没有然后</description>
+    </item>
+    
+  </channel>
+</rss>
